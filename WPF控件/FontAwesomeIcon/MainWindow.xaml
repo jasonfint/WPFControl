@@ -1,0 +1,25 @@
+﻿<Window x:Class="FontAwesomeIcon.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FontAwesomeIcon"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" Background="LightBlue">
+    <Window.Resources>
+        <Style x:Key="FontAwesome" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="80"/>
+            <Setter Property="Margin" Value="3"/>
+            <Setter Property="FontFamily" Value="/FontAwesomeIcon;component/fontawesomeResource/#FontAwesome"></Setter>
+        </Style>
+    </Window.Resources>
+    <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+        <TextBlock Text="&#xf24e;" Style="{StaticResource FontAwesome}" Foreground="#CF1FFF"></TextBlock>
+        <TextBlock Text="&#xf21c;" Style="{StaticResource FontAwesome}" Foreground="#1FFFFF"></TextBlock>
+        <TextBlock Text="&#xf0c4;" Style="{StaticResource FontAwesome}" Foreground="#FFFFFF"></TextBlock>
+        <TextBlock Text="&#xf099;" Style="{StaticResource FontAwesome}" Foreground="#FB0AE8"></TextBlock>
+    </StackPanel>
+    <!--http://fontawesome.dashgame.com/（这个网址可以下载图标字体文件）
+
+http://www.fontawesome.com.cn/（这个网址可以下载图标字体文件和查图标编码）-->
+</Window>

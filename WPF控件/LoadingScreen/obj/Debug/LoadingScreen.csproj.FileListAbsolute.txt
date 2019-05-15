@@ -1,0 +1,13 @@
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingScreen\bin\Debug\LoadingScreen.exe.config
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingScreen\bin\Debug\LoadingScreen.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingScreen\bin\Debug\LoadingScreen.pdb
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingScreen\obj\Debug\MainWindow.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingScreen\obj\Debug\App.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingScreen\obj\Debug\LoadingScreen_MarkupCompile.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingScreen\obj\Debug\LoadingScreen_MarkupCompile.lref
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingScreen\obj\Debug\MainWindow.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingScreen\obj\Debug\LoadingScreen.g.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingScreen\obj\Debug\LoadingScreen.Properties.Resources.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingScreen\obj\Debug\LoadingScreen.csproj.GenerateResource.Cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingScreen\obj\Debug\LoadingScreen.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingScreen\obj\Debug\LoadingScreen.pdb

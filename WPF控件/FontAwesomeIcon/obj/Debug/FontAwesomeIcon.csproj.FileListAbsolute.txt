@@ -1,0 +1,14 @@
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\FontAwesomeIcon\bin\Debug\FontAwesomeIcon.exe.config
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\FontAwesomeIcon\bin\Debug\FontAwesomeIcon.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\FontAwesomeIcon\bin\Debug\FontAwesomeIcon.pdb
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\FontAwesomeIcon\obj\Debug\FontAwesomeIcon.csprojResolveAssemblyReference.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\FontAwesomeIcon\obj\Debug\MainWindow.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\FontAwesomeIcon\obj\Debug\App.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\FontAwesomeIcon\obj\Debug\FontAwesomeIcon_MarkupCompile.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\FontAwesomeIcon\obj\Debug\FontAwesomeIcon_MarkupCompile.lref
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\FontAwesomeIcon\obj\Debug\MainWindow.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\FontAwesomeIcon\obj\Debug\FontAwesomeIcon.g.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\FontAwesomeIcon\obj\Debug\FontAwesomeIcon.Properties.Resources.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\FontAwesomeIcon\obj\Debug\FontAwesomeIcon.csproj.GenerateResource.Cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\FontAwesomeIcon\obj\Debug\FontAwesomeIcon.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\FontAwesomeIcon\obj\Debug\FontAwesomeIcon.pdb

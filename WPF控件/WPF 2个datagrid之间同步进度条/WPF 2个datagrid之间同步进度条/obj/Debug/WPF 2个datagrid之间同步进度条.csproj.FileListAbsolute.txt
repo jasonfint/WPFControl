@@ -1,0 +1,14 @@
+c:\users\jasonfintgroup\documents\visual studio 2015\Projects\WPF 2个datagrid之间同步进度条\WPF 2个datagrid之间同步进度条\bin\Debug\WPF 2个datagrid之间同步进度条.exe.config
+c:\users\jasonfintgroup\documents\visual studio 2015\Projects\WPF 2个datagrid之间同步进度条\WPF 2个datagrid之间同步进度条\bin\Debug\WPF 2个datagrid之间同步进度条.exe
+c:\users\jasonfintgroup\documents\visual studio 2015\Projects\WPF 2个datagrid之间同步进度条\WPF 2个datagrid之间同步进度条\bin\Debug\WPF 2个datagrid之间同步进度条.pdb
+c:\users\jasonfintgroup\documents\visual studio 2015\Projects\WPF 2个datagrid之间同步进度条\WPF 2个datagrid之间同步进度条\obj\Debug\WPF 2个datagrid之间同步进度条.csprojResolveAssemblyReference.cache
+c:\users\jasonfintgroup\documents\visual studio 2015\Projects\WPF 2个datagrid之间同步进度条\WPF 2个datagrid之间同步进度条\obj\Debug\MainWindow.g.cs
+c:\users\jasonfintgroup\documents\visual studio 2015\Projects\WPF 2个datagrid之间同步进度条\WPF 2个datagrid之间同步进度条\obj\Debug\App.g.cs
+c:\users\jasonfintgroup\documents\visual studio 2015\Projects\WPF 2个datagrid之间同步进度条\WPF 2个datagrid之间同步进度条\obj\Debug\WPF 2个datagrid之间同步进度条_MarkupCompile.cache
+c:\users\jasonfintgroup\documents\visual studio 2015\Projects\WPF 2个datagrid之间同步进度条\WPF 2个datagrid之间同步进度条\obj\Debug\WPF 2个datagrid之间同步进度条_MarkupCompile.lref
+c:\users\jasonfintgroup\documents\visual studio 2015\Projects\WPF 2个datagrid之间同步进度条\WPF 2个datagrid之间同步进度条\obj\Debug\MainWindow.baml
+c:\users\jasonfintgroup\documents\visual studio 2015\Projects\WPF 2个datagrid之间同步进度条\WPF 2个datagrid之间同步进度条\obj\Debug\WPF 2个datagrid之间同步进度条.g.resources
+c:\users\jasonfintgroup\documents\visual studio 2015\Projects\WPF 2个datagrid之间同步进度条\WPF 2个datagrid之间同步进度条\obj\Debug\WPF_2个datagrid之间同步进度条.Properties.Resources.resources
+c:\users\jasonfintgroup\documents\visual studio 2015\Projects\WPF 2个datagrid之间同步进度条\WPF 2个datagrid之间同步进度条\obj\Debug\WPF 2个datagrid之间同步进度条.csproj.GenerateResource.Cache
+c:\users\jasonfintgroup\documents\visual studio 2015\Projects\WPF 2个datagrid之间同步进度条\WPF 2个datagrid之间同步进度条\obj\Debug\WPF 2个datagrid之间同步进度条.exe
+c:\users\jasonfintgroup\documents\visual studio 2015\Projects\WPF 2个datagrid之间同步进度条\WPF 2个datagrid之间同步进度条\obj\Debug\WPF 2个datagrid之间同步进度条.pdb

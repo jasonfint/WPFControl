@@ -1,0 +1,16 @@
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\通过Window.DataContext实现窗口间传值\bin\Debug\通过Window.DataContext实现窗口间传值.exe.config
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\通过Window.DataContext实现窗口间传值\bin\Debug\通过Window.DataContext实现窗口间传值.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\通过Window.DataContext实现窗口间传值\bin\Debug\通过Window.DataContext实现窗口间传值.pdb
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\通过Window.DataContext实现窗口间传值\obj\Debug\通过Window.DataContext实现窗口间传值.csprojResolveAssemblyReference.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\通过Window.DataContext实现窗口间传值\obj\Debug\MainWindow.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\通过Window.DataContext实现窗口间传值\obj\Debug\Window1.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\通过Window.DataContext实现窗口间传值\obj\Debug\App.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\通过Window.DataContext实现窗口间传值\obj\Debug\通过Window.DataContext实现窗口间传值_MarkupCompile.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\通过Window.DataContext实现窗口间传值\obj\Debug\通过Window.DataContext实现窗口间传值_MarkupCompile.lref
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\通过Window.DataContext实现窗口间传值\obj\Debug\MainWindow.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\通过Window.DataContext实现窗口间传值\obj\Debug\Window1.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\通过Window.DataContext实现窗口间传值\obj\Debug\通过Window.DataContext实现窗口间传值.g.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\通过Window.DataContext实现窗口间传值\obj\Debug\通过Window.DataContext实现窗口间传值.Properties.Resources.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\通过Window.DataContext实现窗口间传值\obj\Debug\通过Window.DataContext实现窗口间传值.csproj.GenerateResource.Cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\通过Window.DataContext实现窗口间传值\obj\Debug\通过Window.DataContext实现窗口间传值.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\通过Window.DataContext实现窗口间传值\obj\Debug\通过Window.DataContext实现窗口间传值.pdb

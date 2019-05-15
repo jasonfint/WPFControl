@@ -1,0 +1,14 @@
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\动态背景\bin\Debug\动态背景.exe.config
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\动态背景\bin\Debug\动态背景.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\动态背景\bin\Debug\动态背景.pdb
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\动态背景\obj\Debug\动态背景.csprojResolveAssemblyReference.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\动态背景\obj\Debug\MainWindow.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\动态背景\obj\Debug\App.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\动态背景\obj\Debug\动态背景_MarkupCompile.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\动态背景\obj\Debug\动态背景_MarkupCompile.lref
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\动态背景\obj\Debug\MainWindow.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\动态背景\obj\Debug\动态背景.g.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\动态背景\obj\Debug\动态背景.Properties.Resources.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\动态背景\obj\Debug\动态背景.csproj.GenerateResource.Cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\动态背景\obj\Debug\动态背景.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\动态背景\obj\Debug\动态背景.pdb

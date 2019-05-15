@@ -1,0 +1,14 @@
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\逐渐消失的矩形\bin\Debug\逐渐消失的矩形.exe.config
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\逐渐消失的矩形\bin\Debug\逐渐消失的矩形.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\逐渐消失的矩形\bin\Debug\逐渐消失的矩形.pdb
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\逐渐消失的矩形\obj\Debug\逐渐消失的矩形.csprojResolveAssemblyReference.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\逐渐消失的矩形\obj\Debug\MainWindow.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\逐渐消失的矩形\obj\Debug\App.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\逐渐消失的矩形\obj\Debug\逐渐消失的矩形_MarkupCompile.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\逐渐消失的矩形\obj\Debug\逐渐消失的矩形_MarkupCompile.lref
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\逐渐消失的矩形\obj\Debug\MainWindow.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\逐渐消失的矩形\obj\Debug\逐渐消失的矩形.g.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\逐渐消失的矩形\obj\Debug\逐渐消失的矩形.Properties.Resources.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\逐渐消失的矩形\obj\Debug\逐渐消失的矩形.csproj.GenerateResource.Cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\逐渐消失的矩形\obj\Debug\逐渐消失的矩形.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\逐渐消失的矩形\obj\Debug\逐渐消失的矩形.pdb

@@ -1,0 +1,14 @@
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中的数据模板(DataTemplate)\bin\Debug\WPF中的数据模板(DataTemplate).exe.config
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中的数据模板(DataTemplate)\bin\Debug\WPF中的数据模板(DataTemplate).exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中的数据模板(DataTemplate)\bin\Debug\WPF中的数据模板(DataTemplate).pdb
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中的数据模板(DataTemplate)\obj\Debug\MainWindow.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中的数据模板(DataTemplate)\obj\Debug\App.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中的数据模板(DataTemplate)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中的数据模板(DataTemplate)\obj\Debug\WPF中的数据模板(DataTemplate)_MarkupCompile.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中的数据模板(DataTemplate)\obj\Debug\WPF中的数据模板(DataTemplate)_MarkupCompile.lref
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中的数据模板(DataTemplate)\obj\Debug\MainWindow.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中的数据模板(DataTemplate)\obj\Debug\WPF中的数据模板(DataTemplate).g.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中的数据模板(DataTemplate)\obj\Debug\WPF中的数据模板_DataTemplate_.Properties.Resources.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中的数据模板(DataTemplate)\obj\Debug\WPF中的数据模板DataTemplate.csproj.GenerateResource.Cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中的数据模板(DataTemplate)\obj\Debug\WPF中的数据模板(DataTemplate).exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中的数据模板(DataTemplate)\obj\Debug\WPF中的数据模板(DataTemplate).pdb

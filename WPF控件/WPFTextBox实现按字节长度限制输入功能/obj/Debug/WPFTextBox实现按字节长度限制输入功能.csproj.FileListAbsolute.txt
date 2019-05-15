@@ -1,0 +1,14 @@
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPFTextBox实现按字节长度限制输入功能\bin\Debug\WPFTextBox实现按字节长度限制输入功能.exe.config
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPFTextBox实现按字节长度限制输入功能\bin\Debug\WPFTextBox实现按字节长度限制输入功能.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPFTextBox实现按字节长度限制输入功能\bin\Debug\WPFTextBox实现按字节长度限制输入功能.pdb
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPFTextBox实现按字节长度限制输入功能\obj\Debug\MainWindow.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPFTextBox实现按字节长度限制输入功能\obj\Debug\App.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPFTextBox实现按字节长度限制输入功能\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPFTextBox实现按字节长度限制输入功能\obj\Debug\WPFTextBox实现按字节长度限制输入功能_MarkupCompile.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPFTextBox实现按字节长度限制输入功能\obj\Debug\WPFTextBox实现按字节长度限制输入功能_MarkupCompile.lref
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPFTextBox实现按字节长度限制输入功能\obj\Debug\MainWindow.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPFTextBox实现按字节长度限制输入功能\obj\Debug\WPFTextBox实现按字节长度限制输入功能.g.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPFTextBox实现按字节长度限制输入功能\obj\Debug\WPFTextBox实现按字节长度限制输入功能.Properties.Resources.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPFTextBox实现按字节长度限制输入功能\obj\Debug\WPFTextBox实现按字节长度限制输入功能.csproj.GenerateResource.Cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPFTextBox实现按字节长度限制输入功能\obj\Debug\WPFTextBox实现按字节长度限制输入功能.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPFTextBox实现按字节长度限制输入功能\obj\Debug\WPFTextBox实现按字节长度限制输入功能.pdb

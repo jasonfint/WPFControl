@@ -1,0 +1,13 @@
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中textBlock 变色功能\bin\Debug\WPF中textBlock 变色功能.exe.config
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中textBlock 变色功能\bin\Debug\WPF中textBlock 变色功能.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中textBlock 变色功能\bin\Debug\WPF中textBlock 变色功能.pdb
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中textBlock 变色功能\obj\Debug\MainWindow.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中textBlock 变色功能\obj\Debug\App.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中textBlock 变色功能\obj\Debug\WPF中textBlock 变色功能_MarkupCompile.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中textBlock 变色功能\obj\Debug\WPF中textBlock 变色功能_MarkupCompile.lref
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中textBlock 变色功能\obj\Debug\MainWindow.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中textBlock 变色功能\obj\Debug\WPF中textBlock 变色功能.g.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中textBlock 变色功能\obj\Debug\WPF中textBlock_变色功能.Properties.Resources.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中textBlock 变色功能\obj\Debug\WPF中textBlock 变色功能.csproj.GenerateResource.Cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中textBlock 变色功能\obj\Debug\WPF中textBlock 变色功能.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF中textBlock 变色功能\obj\Debug\WPF中textBlock 变色功能.pdb

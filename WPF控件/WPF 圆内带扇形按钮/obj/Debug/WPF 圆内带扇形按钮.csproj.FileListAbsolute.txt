@@ -1,0 +1,15 @@
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF 圆内带扇形按钮\bin\Debug\WPF 圆内带扇形按钮.exe.config
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF 圆内带扇形按钮\bin\Debug\WPF 圆内带扇形按钮.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF 圆内带扇形按钮\bin\Debug\WPF 圆内带扇形按钮.pdb
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF 圆内带扇形按钮\obj\Debug\WPF 圆内带扇形按钮.csprojResolveAssemblyReference.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF 圆内带扇形按钮\obj\Debug\MainWindow.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF 圆内带扇形按钮\obj\Debug\App.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF 圆内带扇形按钮\obj\Debug\WPF 圆内带扇形按钮_MarkupCompile.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF 圆内带扇形按钮\obj\Debug\WPF 圆内带扇形按钮_MarkupCompile.lref
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF 圆内带扇形按钮\obj\Debug\MainWindow.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF 圆内带扇形按钮\obj\Debug\WPF 圆内带扇形按钮.g.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF 圆内带扇形按钮\obj\Debug\WPF_圆内带扇形按钮.Properties.Resources.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF 圆内带扇形按钮\obj\Debug\WPF 圆内带扇形按钮.csproj.GenerateResource.Cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF 圆内带扇形按钮\obj\Debug\WPF 圆内带扇形按钮.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF 圆内带扇形按钮\obj\Debug\WPF 圆内带扇形按钮.pdb
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF 圆内带扇形按钮\obj\Debug\UserControl1.g.cs

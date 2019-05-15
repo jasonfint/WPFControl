@@ -1,0 +1,118 @@
+﻿<UserControl x:Class="WPF_圆内带扇形按钮.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPF_圆内带扇形按钮"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.Resources>
+        <CombinedGeometry x:Key="KeyPathDataColorDescript" GeometryCombineMode="Exclude">
+            <CombinedGeometry.Geometry1>
+                <CombinedGeometry GeometryCombineMode="Intersect">
+                    <CombinedGeometry.Geometry1>
+                        <RectangleGeometry Rect="0,0,200,418">
+                            <RectangleGeometry.Transform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform AngleY="18"/>
+                                    <RotateTransform />
+                                    <TranslateTransform />
+                                </TransformGroup>
+                            </RectangleGeometry.Transform>
+                        </RectangleGeometry>
+                    </CombinedGeometry.Geometry1>
+                    <CombinedGeometry.Geometry2>
+                        <RectangleGeometry Rect="0,0,200,418">
+                            <RectangleGeometry.Transform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform AngleY="-18"/>
+                                    <RotateTransform />
+                                    <TranslateTransform />
+                                </TransformGroup>
+                            </RectangleGeometry.Transform>
+                        </RectangleGeometry>
+                    </CombinedGeometry.Geometry2>
+                </CombinedGeometry>
+            </CombinedGeometry.Geometry1>
+            <CombinedGeometry.Geometry2>
+                <EllipseGeometry RadiusX="145" RadiusY="145"                                                 Center="195,209"/>
+            </CombinedGeometry.Geometry2>
+        </CombinedGeometry>
+      
+    </UserControl.Resources>
+    <Grid>
+        <Viewport3D>
+            <Viewport3D.Camera>
+                <PerspectiveCamera Position="-2.5 2.5 5" LookDirection="0.5 -0.5 -1"/>
+            </Viewport3D.Camera>
+            <ModelVisual3D>
+                <ModelVisual3D.Content>
+                    <Model3DGroup>
+                        <DirectionalLight Direction="1 0 -7"
+                                  Color="White"/>
+                        <GeometryModel3D>
+                            <GeometryModel3D.Geometry>
+                                <MeshGeometry3D Positions="-1 1 1, 1 1 1, -1 -1 1, 1 -1 1, -1 1 -1, 1 1 -1, -1 -1 -1, 1 -1 -1
+                                                   1 1 1, 1 1 -1, 1 -1 1, 1 -1 -1, -1 1 1, -1 1 -1, -1 -1 1, -1 -1 -1"
+                                        TriangleIndices="0 2 1, 1 2 3, 5 6 4, 5 7 6
+                                                         8 10 9, 9 10 11, 13 14 12, 13 15 14"/>
+                            </GeometryModel3D.Geometry>
+                            <GeometryModel3D.Material>
+                                <DiffuseMaterial Brush="Green"/>
+                            </GeometryModel3D.Material>
+                            <GeometryModel3D.BackMaterial>
+                                <DiffuseMaterial Brush="Red"/>
+                            </GeometryModel3D.BackMaterial>
+                        </GeometryModel3D>
+                    </Model3DGroup>
+                </ModelVisual3D.Content>
+            </ModelVisual3D>
+        </Viewport3D>
+      
+        <Ellipse x:Name="EllipseLoadZm" Stroke="{Binding Path=Brush}" StrokeThickness="60"                 StrokeDashArray="0.4 0.12" StrokeDashCap="Flat"                  RenderTransformOrigin="0.5,0.5">
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+            <Ellipse.OpacityMask>
+                <RadialGradientBrush>
+                    <GradientStop Color="#33FFFFFF" Offset="0.466"/>
+                    <GradientStop Color="#FFFBFBFB" Offset="0.871"/>
+                    <GradientStop Color="Transparent" Offset="1"/>
+                    <GradientStop Color="#4EFFFFFF" Offset="0.778"/>
+                    <GradientStop Color="#FFF1EDED" Offset="0.281"/>
+                    <GradientStop Color="#19FFFFFF" Offset="0.003"/>
+                </RadialGradientBrush>
+            </Ellipse.OpacityMask>
+        </Ellipse>
+        <Grid  HorizontalAlignment="Left"               RenderTransformOrigin="1,0.5">
+            <Path HorizontalAlignment="Right"         Data="{StaticResource KeyPathDataColorDescript}" Margin="0,0,10,0" Stretch="Fill" Width="187"         >
+                <Path.Fill>
+                    <LinearGradientBrush StartPoint="0,0.5" EndPoint="1,0.5" >
+                        <GradientStop Color="{Binding Path=Fill}"/>
+                        <GradientStop Color="Transparent" Offset="1"/>
+                    </LinearGradientBrush>
+                </Path.Fill>
+            </Path>
+            <Line Y2="418" StrokeThickness="25" StrokeDashArray="1 0.2">
+                <Line.Stroke>
+                    <LinearGradientBrush EndPoint="0.5,1.2" StartPoint="0.5,0">
+                        <GradientStop Color="{Binding Path=Fill}" Offset="0"/>
+                        <GradientStop Color="Transparent" Offset="1"/>
+                    </LinearGradientBrush>
+                </Line.Stroke>
+            </Line>
+            <Canvas >
+                <Canvas.Background>
+                    <SolidColorBrush Color="{Binding Path=Fill}" Opacity="0.3"/>
+                </Canvas.Background>
+            </Canvas>
+        </Grid>
+    </Grid>
+</UserControl>

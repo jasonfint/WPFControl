@@ -1,0 +1,13 @@
+﻿<Window x:Class="Wpf最前端绘图.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf最前端绘图"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" WindowState="Maximized"  Topmost="True" AllowsTransparency="True" Background="Transparent" WindowStyle="None" >
+    <!--https://www.cnblogs.com/lonelyxmas/p/10729993.html-->
+    <Canvas Name="canvas">
+        <TextBlock Height="50" Width="100" x:Name="Code" Background="{DynamicResource { x:Static SystemParameters.WindowGlassBrush}}">Code</TextBlock>
+    </Canvas>
+</Window>

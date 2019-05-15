@@ -1,0 +1,16 @@
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\Datagrid最后一行问题\bin\Debug\Datagrid最后一行问题.exe.config
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\Datagrid最后一行问题\bin\Debug\Datagrid最后一行问题.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\Datagrid最后一行问题\bin\Debug\Datagrid最后一行问题.pdb
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\Datagrid最后一行问题\bin\Debug\DevExpress.Mvvm.v16.1.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\Datagrid最后一行问题\bin\Debug\DevExpress.Mvvm.v16.1.xml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\Datagrid最后一行问题\obj\Debug\MainWindow.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\Datagrid最后一行问题\obj\Debug\App.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\Datagrid最后一行问题\obj\Debug\Datagrid最后一行问题_MarkupCompile.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\Datagrid最后一行问题\obj\Debug\Datagrid最后一行问题_MarkupCompile.lref
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\Datagrid最后一行问题\obj\Debug\MainWindow.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\Datagrid最后一行问题\obj\Debug\Datagrid最后一行问题.g.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\Datagrid最后一行问题\obj\Debug\Datagrid最后一行问题.Properties.Resources.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\Datagrid最后一行问题\obj\Debug\Datagrid最后一行问题.csproj.GenerateResource.Cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\Datagrid最后一行问题\obj\Debug\Datagrid最后一行问题.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\Datagrid最后一行问题\obj\Debug\Datagrid最后一行问题.pdb
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\Datagrid最后一行问题\obj\Debug\Datagrid最后一行问题.csprojResolveAssemblyReference.cache

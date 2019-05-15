@@ -1,0 +1,17 @@
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\滚动的小球动画教程\bin\Debug\滚动的小球动画教程.exe.config
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\滚动的小球动画教程\bin\Debug\滚动的小球动画教程.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\滚动的小球动画教程\bin\Debug\滚动的小球动画教程.pdb
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\滚动的小球动画教程\obj\Debug\滚动的小球动画教程.csprojResolveAssemblyReference.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\滚动的小球动画教程\obj\Debug\Ball.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\滚动的小球动画教程\obj\Debug\MainWindow.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\滚动的小球动画教程\obj\Debug\App.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\滚动的小球动画教程\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\滚动的小球动画教程\obj\Debug\滚动的小球动画教程_MarkupCompile.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\滚动的小球动画教程\obj\Debug\滚动的小球动画教程_MarkupCompile.lref
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\滚动的小球动画教程\obj\Debug\Ball.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\滚动的小球动画教程\obj\Debug\MainWindow.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\滚动的小球动画教程\obj\Debug\滚动的小球动画教程.g.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\滚动的小球动画教程\obj\Debug\滚动的小球动画教程.Properties.Resources.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\滚动的小球动画教程\obj\Debug\滚动的小球动画教程.csproj.GenerateResource.Cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\滚动的小球动画教程\obj\Debug\滚动的小球动画教程.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\滚动的小球动画教程\obj\Debug\滚动的小球动画教程.pdb

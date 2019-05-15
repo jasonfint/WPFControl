@@ -1,0 +1,40 @@
+﻿<Window x:Class="WPF自定义Button样式_按钮长度随Content长度自适应.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF自定义Button样式_按钮长度随Content长度自适应"
+        mc:Ignorable="d"
+        Title="MainWindow" >
+    <Window.Resources>
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <!--StackPanel是用来控制当Button长度变化时，位置的适应-->
+                        <StackPanel x:Name="spPanel" Orientation="Horizontal" HorizontalAlignment="{TemplateBinding HorizontalAlignment}" >
+                            <Grid>
+                               
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition></ColumnDefinition>
+                                    <ColumnDefinition></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                
+                                <!--Viewbox是控制当文字的长度超出最长限制时，对文字进行缩小处理-->
+                                <Viewbox Grid.Column="1" MaxWidth="350">
+                                    <Label x:Name="lblContent" Padding="0,0,5,0" VerticalContentAlignment="Center" Content="{TemplateBinding Content}"/>
+                                </Viewbox>
+                            </Grid>
+                        </StackPanel>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <StackPanel Orientation="Vertical">
+        <Button Style="{StaticResource ButtonStyle}" Content="1" Height="321"/>
+        <Button Style="{StaticResource ButtonStyle}" Content="11231431234"/>
+        <Button Style="{StaticResource ButtonStyle}" Content="142314"/>
+        <Button Style="{StaticResource ButtonStyle}" Content="4321424321"/>
+    </StackPanel>
+</Window>

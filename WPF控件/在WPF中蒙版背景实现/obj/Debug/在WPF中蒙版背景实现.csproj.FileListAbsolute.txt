@@ -1,0 +1,14 @@
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\在WPF中蒙版背景实现\obj\Debug\MainWindow.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\在WPF中蒙版背景实现\obj\Debug\App.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\在WPF中蒙版背景实现\obj\Debug\在WPF中蒙版背景实现_MarkupCompile.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\在WPF中蒙版背景实现\obj\Debug\在WPF中蒙版背景实现_MarkupCompile.lref
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\在WPF中蒙版背景实现\bin\Debug\在WPF中蒙版背景实现.exe.config
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\在WPF中蒙版背景实现\bin\Debug\在WPF中蒙版背景实现.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\在WPF中蒙版背景实现\bin\Debug\在WPF中蒙版背景实现.pdb
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\在WPF中蒙版背景实现\obj\Debug\MainWindow.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\在WPF中蒙版背景实现\obj\Debug\在WPF中蒙版背景实现.g.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\在WPF中蒙版背景实现\obj\Debug\在WPF中蒙版背景实现.Properties.Resources.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\在WPF中蒙版背景实现\obj\Debug\在WPF中蒙版背景实现.csproj.GenerateResource.Cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\在WPF中蒙版背景实现\obj\Debug\在WPF中蒙版背景实现.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\在WPF中蒙版背景实现\obj\Debug\在WPF中蒙版背景实现.pdb
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\在WPF中蒙版背景实现\obj\Debug\在WPF中蒙版背景实现.csprojResolveAssemblyReference.cache

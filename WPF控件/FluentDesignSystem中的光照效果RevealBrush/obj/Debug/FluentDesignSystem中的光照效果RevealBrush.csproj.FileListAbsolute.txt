@@ -1,0 +1,5 @@
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\FluentDesignSystem中的光照效果RevealBrush\obj\Debug\FluentDesignSystem中的光照效果RevealBrush.csprojResolveAssemblyReference.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\FluentDesignSystem中的光照效果RevealBrush\obj\Debug\MainWindow.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\FluentDesignSystem中的光照效果RevealBrush\obj\Debug\App.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\FluentDesignSystem中的光照效果RevealBrush\obj\Debug\FluentDesignSystem中的光照效果RevealBrush_MarkupCompile.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\FluentDesignSystem中的光照效果RevealBrush\obj\Debug\FluentDesignSystem中的光照效果RevealBrush_MarkupCompile.lref

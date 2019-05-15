@@ -1,0 +1,13 @@
+﻿<controls:UserWindow xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid"  
+                     x:Class="WPF_CustomWindow.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="clr-namespace:WPF_CustomWindow.Controls"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <!--<dxg:GridControl />-->
+        <TextBlock Height="50" x:Name="SystemProperties" Visibility="Collapsed">SystemProperties</TextBlock>
+        <Button Height="50" Visibility="Collapsed"/>
+        <TextBlock Height="50" x:Name="Code" Background="{DynamicResource {x:Static SystemColors.GradientActiveCaptionColorKey}}">Code</TextBlock>
+    </StackPanel>
+</controls:UserWindow>

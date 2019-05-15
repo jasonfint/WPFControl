@@ -1,0 +1,25 @@
+﻿<Window x:Class="WPF_2个datagrid之间同步进度条.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_2个datagrid之间同步进度条"
+        mc:Ignorable="d"
+        Title="MainWindow">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid DockPanel.Dock="Left" Width="300">
+            <DataGrid Name="dgSource" VerticalScrollBarVisibility="Visible"  EnableRowVirtualization="False" Height="500" ScrollViewer.ScrollChanged="DgSource_ScrollChanged" >
+
+            </DataGrid>
+        </Grid>
+        <Grid  DockPanel.Dock="Right" Width="300" Grid.Column="1">
+            <DataGrid Name="dgTo"   VerticalScrollBarVisibility="Visible" EnableRowVirtualization="False" Height="500" ScrollViewer.ScrollChanged="DgTo_ScrollChanged">
+
+            </DataGrid>
+        </Grid>
+    </Grid>
+</Window>

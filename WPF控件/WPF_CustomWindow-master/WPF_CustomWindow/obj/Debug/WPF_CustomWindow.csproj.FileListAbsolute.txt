@@ -1,0 +1,71 @@
+H:\WPF开源数据\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\WPF_CustomWindow.exe.config
+H:\WPF开源数据\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\WPF_CustomWindow.exe
+H:\WPF开源数据\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\WPF_CustomWindow.pdb
+H:\WPF开源数据\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\Themes\Generic.baml
+H:\WPF开源数据\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\Themes\Styles\ButtonStyle.baml
+H:\WPF开源数据\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\App.baml
+H:\WPF开源数据\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\MainWindow.g.cs
+H:\WPF开源数据\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\App.g.cs
+H:\WPF开源数据\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\WPF开源数据\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\WPF_CustomWindow_MarkupCompile.cache
+H:\WPF开源数据\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\WPF_CustomWindow_MarkupCompile.lref
+H:\WPF开源数据\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\MainWindow.baml
+H:\WPF开源数据\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\Themes\Styles\UserWindowStyle.baml
+H:\WPF开源数据\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\WPF_CustomWindow.g.resources
+H:\WPF开源数据\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\WPF_CustomWindow.Properties.Resources.resources
+H:\WPF开源数据\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\WPF_CustomWindow.csproj.GenerateResource.Cache
+H:\WPF开源数据\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\WPF_CustomWindow.exe
+H:\WPF开源数据\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\WPF_CustomWindow.pdb
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\WPF_CustomWindow.exe.config
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\WPF_CustomWindow.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\WPF_CustomWindow.pdb
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\WPF_CustomWindow.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\WPF_CustomWindow.pdb
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\DevExpress.Mvvm.v16.1.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\DevExpress.Xpf.Core.v16.1.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\DevExpress.Xpf.Grid.v16.1.Core.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\DevExpress.Xpf.Grid.v16.1.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\DevExpress.CodeParser.v16.1.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\DevExpress.Mvvm.v16.1.xml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\DevExpress.Xpf.Core.v16.1.xml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\DevExpress.Xpf.Grid.v16.1.xml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\DevExpress.Xpf.Grid.v16.1.Core.xml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\de\DevExpress.Xpf.Core.v16.1.resources.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\es\DevExpress.Xpf.Core.v16.1.resources.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\ja\DevExpress.Xpf.Core.v16.1.resources.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\ru\DevExpress.Xpf.Core.v16.1.resources.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\de\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\es\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\ja\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\ru\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\Themes\Generic.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\Themes\Styles\ButtonStyle.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\App.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\MainWindow.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\App.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\WPF_CustomWindow_MarkupCompile.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\WPF_CustomWindow_MarkupCompile.lref
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\MainWindow.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\Themes\Styles\UserWindowStyle.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\WPF_CustomWindow.g.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\WPF_CustomWindow.Properties.Resources.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WPF_CustomWindow-master\WPF_CustomWindow\obj\Debug\WPF_CustomWindow.csproj.GenerateResource.Cache

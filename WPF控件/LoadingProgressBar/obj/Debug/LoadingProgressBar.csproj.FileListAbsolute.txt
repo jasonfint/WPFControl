@@ -1,0 +1,14 @@
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingProgressBar\bin\Debug\LoadingProgressBar.exe.config
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingProgressBar\bin\Debug\LoadingProgressBar.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingProgressBar\bin\Debug\LoadingProgressBar.pdb
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingProgressBar\obj\Debug\LoadingProgressBar.csprojResolveAssemblyReference.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingProgressBar\obj\Debug\MainWindow.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingProgressBar\obj\Debug\App.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingProgressBar\obj\Debug\LoadingProgressBar_MarkupCompile.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingProgressBar\obj\Debug\LoadingProgressBar_MarkupCompile.lref
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingProgressBar\obj\Debug\MainWindow.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingProgressBar\obj\Debug\LoadingProgressBar.g.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingProgressBar\obj\Debug\LoadingProgressBar.Properties.Resources.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingProgressBar\obj\Debug\LoadingProgressBar.csproj.GenerateResource.Cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingProgressBar\obj\Debug\LoadingProgressBar.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\LoadingProgressBar\obj\Debug\LoadingProgressBar.pdb

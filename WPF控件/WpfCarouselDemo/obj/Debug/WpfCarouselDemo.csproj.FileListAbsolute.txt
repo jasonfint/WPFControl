@@ -1,0 +1,48 @@
+C:\Users\Leif Goodwin\Dropbox (TouchNetix)\T\Users\Leif Goodwin\WpfCarouselDemo\WpfCarouselDemo\bin\Debug\WpfCarouselDemo.exe.config
+C:\Users\Leif Goodwin\Dropbox (TouchNetix)\T\Users\Leif Goodwin\WpfCarouselDemo\WpfCarouselDemo\bin\Debug\WpfCarouselDemo.exe
+C:\Users\Leif Goodwin\Dropbox (TouchNetix)\T\Users\Leif Goodwin\WpfCarouselDemo\WpfCarouselDemo\bin\Debug\WpfCarouselDemo.pdb
+C:\Users\Leif Goodwin\Dropbox (TouchNetix)\T\Users\Leif Goodwin\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Leif Goodwin\Dropbox (TouchNetix)\T\Users\Leif Goodwin\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\App.g.cs
+C:\Users\Leif Goodwin\Dropbox (TouchNetix)\T\Users\Leif Goodwin\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Leif Goodwin\Dropbox (TouchNetix)\T\Users\Leif Goodwin\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\WpfCarouselDemo_MarkupCompile.cache
+C:\Users\Leif Goodwin\Dropbox (TouchNetix)\T\Users\Leif Goodwin\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\WpfCarouselDemo_MarkupCompile.lref
+C:\Users\Leif Goodwin\Dropbox (TouchNetix)\T\Users\Leif Goodwin\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\MainWindow.baml
+C:\Users\Leif Goodwin\Dropbox (TouchNetix)\T\Users\Leif Goodwin\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\View\ResourceDictionary.baml
+C:\Users\Leif Goodwin\Dropbox (TouchNetix)\T\Users\Leif Goodwin\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\WpfCarouselDemo.g.resources
+C:\Users\Leif Goodwin\Dropbox (TouchNetix)\T\Users\Leif Goodwin\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\WpfCarouselDemo.Properties.Resources.resources
+C:\Users\Leif Goodwin\Dropbox (TouchNetix)\T\Users\Leif Goodwin\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\WpfCarouselDemo.csproj.GenerateResource.cache
+C:\Users\Leif Goodwin\Dropbox (TouchNetix)\T\Users\Leif Goodwin\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\WpfCarouselDemo.csproj.CoreCompileInputs.cache
+C:\Users\Leif Goodwin\Dropbox (TouchNetix)\T\Users\Leif Goodwin\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\WpfCarouselDemo.exe
+C:\Users\Leif Goodwin\Dropbox (TouchNetix)\T\Users\Leif Goodwin\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\WpfCarouselDemo.pdb
+H:\WPF程序\WpfCarouselDemo\WpfCarouselDemo\bin\Debug\WpfCarouselDemo.exe.config
+H:\WPF程序\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\WpfCarouselDemo.exe
+H:\WPF程序\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\WpfCarouselDemo.pdb
+H:\WPF程序\WpfCarouselDemo\WpfCarouselDemo\bin\Debug\WpfCarouselDemo.exe
+H:\WPF程序\WpfCarouselDemo\WpfCarouselDemo\bin\Debug\WpfCarouselDemo.pdb
+H:\WPF程序\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\WpfCarouselDemo.csprojResolveAssemblyReference.cache
+H:\WPF程序\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\MainWindow.g.cs
+H:\WPF程序\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\App.g.cs
+H:\WPF程序\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\WPF程序\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\WpfCarouselDemo_MarkupCompile.cache
+H:\WPF程序\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\WpfCarouselDemo_MarkupCompile.lref
+H:\WPF程序\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\MainWindow.baml
+H:\WPF程序\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\View\ResourceDictionary.baml
+H:\WPF程序\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\WpfCarouselDemo.g.resources
+H:\WPF程序\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\WpfCarouselDemo.Properties.Resources.resources
+H:\WPF程序\WpfCarouselDemo\WpfCarouselDemo\obj\Debug\WpfCarouselDemo.csproj.GenerateResource.Cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WpfCarouselDemo\bin\Debug\WpfCarouselDemo.exe.config
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WpfCarouselDemo\obj\Debug\WpfCarouselDemo.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WpfCarouselDemo\obj\Debug\WpfCarouselDemo.pdb
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WpfCarouselDemo\bin\Debug\WpfCarouselDemo.exe
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WpfCarouselDemo\bin\Debug\WpfCarouselDemo.pdb
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WpfCarouselDemo\obj\Debug\WpfCarouselDemo.csprojResolveAssemblyReference.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WpfCarouselDemo\obj\Debug\MainWindow.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WpfCarouselDemo\obj\Debug\App.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WpfCarouselDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WpfCarouselDemo\obj\Debug\WpfCarouselDemo_MarkupCompile.cache
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WpfCarouselDemo\obj\Debug\WpfCarouselDemo_MarkupCompile.lref
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WpfCarouselDemo\obj\Debug\MainWindow.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WpfCarouselDemo\obj\Debug\View\ResourceDictionary.baml
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WpfCarouselDemo\obj\Debug\WpfCarouselDemo.g.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WpfCarouselDemo\obj\Debug\WpfCarouselDemo.Properties.Resources.resources
+C:\Users\JasonFinTGroup\Documents\Visual Studio 2015\Projects\WPF控件\WpfCarouselDemo\obj\Debug\WpfCarouselDemo.csproj.GenerateResource.Cache

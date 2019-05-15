@@ -1,0 +1,9 @@
+﻿<Application x:Class="WPFTextBox实现按字节长度限制输入功能.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPFTextBox实现按字节长度限制输入功能"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
